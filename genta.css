@@ -1,0 +1,31 @@
+body {
+    background-image: url(projecktimg/mmmmmm.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Times New Roman',serif;
+    color: white;
+  }
+ 
+
+  
+.gm-container {
+    color: white;
+}
+
+
+.gm-jumbotron {
+    
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman',serif;
+}
+
+
+.btn.btn-primary.btn-lg {
+    background-color: rgb(212, 152, 162);
+    border: 1px rgb(212, 152, 162);
+}
+
+
+
+  
